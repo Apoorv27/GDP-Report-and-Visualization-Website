@@ -2,7 +2,7 @@
 
 A website on World GDP Report including visualizations created in Flourish, Datawrapper
 
-<h1>Four aspects covered</h1></br>
+<h1>Four aspects covered in the Report</h1></br>
 1) World GDP</br>
 2) World GDP by Country </br>
 3) World GDP by Industry</br>
